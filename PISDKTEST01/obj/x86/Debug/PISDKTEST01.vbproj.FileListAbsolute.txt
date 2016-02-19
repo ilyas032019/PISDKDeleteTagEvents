@@ -1,0 +1,29 @@
+c:\users\khashimoto\documents\visual studio 2010\Projects\PISDKTEST01\PISDKTEST01\bin\Debug\PISDKTEST01.exe
+c:\users\khashimoto\documents\visual studio 2010\Projects\PISDKTEST01\PISDKTEST01\bin\Debug\PISDKTEST01.pdb
+c:\users\khashimoto\documents\visual studio 2010\Projects\PISDKTEST01\PISDKTEST01\bin\Debug\PISDKTEST01.xml
+c:\users\khashimoto\documents\visual studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\khashimoto\documents\visual studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Debug\PISDKTEST01.Form1.resources
+c:\users\khashimoto\documents\visual studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Debug\PISDKTEST01.Resources.resources
+c:\users\khashimoto\documents\visual studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\khashimoto\documents\visual studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\khashimoto\documents\visual studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Debug\PISDKTEST01.exe
+c:\users\khashimoto\documents\visual studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Debug\PISDKTEST01.xml
+c:\users\khashimoto\documents\visual studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Debug\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Debug\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Debug\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Debug\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\bin\Debug\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\bin\Debug\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\bin\Debug\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Debug\PISDKTEST01.Form1.resources
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Debug\PISDKTEST01.Resources.resources
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Debug\PISDKTEST01.vbproj.GenerateResource.Cache
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Debug\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Debug\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Debug\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\bin\Debug\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\bin\Debug\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\bin\Debug\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Debug\PISDKTEST01.Form1.resources
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Debug\PISDKTEST01.Resources.resources
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Debug\PISDKTEST01.vbproj.GenerateResource.Cache

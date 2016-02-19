@@ -1,0 +1,44 @@
+C:\Users\khashimoto\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\bin\Release\PISDKTEST01.exe
+C:\Users\khashimoto\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\bin\Release\PISDKTEST01.pdb
+C:\Users\khashimoto\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\bin\Release\PISDKTEST01.xml
+C:\Users\khashimoto\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\khashimoto\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Release\PISDKTEST01.Form1.resources
+C:\Users\khashimoto\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Release\PISDKTEST01.Resources.resources
+C:\Users\khashimoto\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\khashimoto\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\khashimoto\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Release\PISDKTEST01.exe
+C:\Users\khashimoto\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Release\PISDKTEST01.xml
+C:\Users\khashimoto\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Release\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Release\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Release\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Documents\Visual Studio 2010\Projects\PISDKTEST01\PISDKTEST01\obj\x86\Release\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Documents\Visual Studio 2010\Projects\PISDKDeleteDuplicateValues\PISDKTEST01\obj\x86\Release\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Documents\Visual Studio 2010\Projects\PISDKDeleteDuplicateValues\PISDKTEST01\obj\x86\Release\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Documents\Visual Studio 2010\Projects\PISDKDeleteDuplicateValues\PISDKTEST01\obj\x86\Release\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteDuplicateValues\PISDKTEST01\obj\x86\Release\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteDuplicateValues\PISDKTEST01\obj\x86\Release\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteDuplicateValues\PISDKTEST01\obj\x86\Release\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Release\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Release\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Release\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\bin\Release\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\bin\Release\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\bin\Release\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Release\PISDKTEST01.Form1.resources
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Release\PISDKTEST01.Resources.resources
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteShutdown\PISDKTEST01\obj\x86\Release\PISDKTEST01.vbproj.GenerateResource.Cache
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\bin\Release\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\bin\Release\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\bin\Release\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.Form1.resources
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.Resources.resources
+C:\Users\khashimoto.OSI\Desktop\VS2010 Projects\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.vbproj.GenerateResource.Cache
+O:\APPLICATION\PI\Sample appls\VB.NET\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.exe
+O:\APPLICATION\PI\Sample appls\VB.NET\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.xml
+O:\APPLICATION\PI\Sample appls\VB.NET\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.pdb
+C:\Users\khashimoto.OSI\Desktop\Programming\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.exe
+C:\Users\khashimoto.OSI\Desktop\Programming\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.xml
+C:\Users\khashimoto.OSI\Desktop\Programming\PISDKDeleteSpecificEvents\PISDKTEST01\obj\x86\Release\PISDKTEST01.pdb
